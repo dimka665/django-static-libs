@@ -4,7 +4,7 @@ django-static-libs
 
 Install
 =======
-`pip install static_libs`
+`pip install django-static-libs`
 
 Usage
 =====
