@@ -3,7 +3,7 @@ import os
 
 name = 'django-static-libs'
 package = 'static_libs'
-version = '0.1.1'
+version = '0.1.2'
 
 url = 'https://github.com/dimka665/django-static-libs'
 author = 'Dmitry Voronin'
